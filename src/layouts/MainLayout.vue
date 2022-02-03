@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Rachael vue
+          Rachael vue -2
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
